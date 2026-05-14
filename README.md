@@ -1,15 +1,21 @@
 # Hey, I'm Dora ✨
 
-Software engineering student exploring languages, backend, and AI — building small projects and testing startup ideas along the way.
+Software engineering student exploring languages, backend, and ai — building small projects and testing startup ideas along the way.
+
 ---
+
 ## 🛠️ Tech
 
-Python · Django · C# · .NET Core · JavaScript · AI/ML · Git · VS Code
+**python** · **django** · **c#** · **.net core** · **javascript** · **ai/ml** · **git** · **vs code**
+
 ---
+
 ## 📫 Contact
 
-GitHub: Dorahoxha
-LinkedIn: https://www.linkedin.com/in/dora-hoxha/
+github: (https://github.com/dorahoxha)  
+linkedin: (https://www.linkedin.com/in/dora-hoxha/)
+
 ---
 
-> *Learning where I can create value.*
+> *learning where i can create value.*
+
