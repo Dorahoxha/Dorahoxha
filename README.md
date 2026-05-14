@@ -18,9 +18,9 @@ If you want to follow my journey, check out my [GitHub](https://github.com/dorah
 - I love reading — self-development, classics, and anything that makes me think out of the box 📚
 - Exploring nature is my reset button 🌿
 - Coding at 2 AM? Been there, done that :)
-- Hobbies: reading, hiking, building things, fixing bugs in code 🐛
+- Hobbies: reading, hiking, building things, fixing bugs in code at unreasonable hours  🐛
 
 ---
 
-*learning where I can create value.*
+*Built through curiosity and countless commits.*
 
