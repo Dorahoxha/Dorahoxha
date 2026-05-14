@@ -15,7 +15,7 @@ I'm also actively working on early-stage startup ideas while improving my techni
 
 ## 🧠 What I'm Working On
 
-- Exploring multiple programming languages (Python, Java, JavaScript)
+- Exploring multiple programming languages (Python, C#, JavaScript)
 - Building small experimental projects
 - Learning cybersecurity fundamentals
 - Developing and testing startup ideas
@@ -24,8 +24,7 @@ I'm also actively working on early-stage startup ideas while improving my techni
 
 ## 🛠️ Tools & Technologies
 
-Python · Java · JavaScript · HTML/CSS · Git · VS Code
-
+Python · Django · C# · .NET Core · JavaScript · AI/ML · Git · VS Code
 ---
 
 ## 🌱 Current Focus
@@ -36,9 +35,8 @@ Learning by building — trying different areas of software development and seei
 
 ## 📫 Contact Me
 
-GitHub: (your username)  
-LinkedIn: (your link)  
-Email: (your email)
+GitHub: Dorahoxha  
+LinkedIn: https://www.linkedin.com/in/dora-hoxha/  
 
 ---
 
