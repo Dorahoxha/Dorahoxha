@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**Dorahoxha/Dorahoxha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Dora ✨
 
-Here are some ideas to get you started:
+Software Engineering student focused on building, experimenting, and understanding how real systems work through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I’m currently exploring different programming languages and technologies to understand where I fit best and what I enjoy building the most.  
+I like working on small projects, experimenting with ideas, and turning concepts into real, functional tools.
+
+I’m also actively working on early-stage startup ideas while improving my technical and problem-solving skills.
+
+---
+
+## 🧠 What I’m Working On
+- Exploring multiple programming languages (Python, Java, JavaScript)
+- Building small experimental projects
+- Learning cybersecurity fundamentals
+- Developing and testing startup ideas
+
+---
+
+## 🛠️ Tools & Technologies
+- Python
+- Java
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+- VS Code
+
+---
+
+## 🌱 Current Focus
+Learning by building — trying different areas of software development and seeing where I can create the most impact.
+
+---
+
+## 📫 Contact Me
+- GitHub: Dorahoxha
+- LinkedIn: https://www.linkedin.com/in/dora-hoxha/
+
+---
+
+> “I’m not just learning to code — I’m learning where I can create value.”
